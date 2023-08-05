@@ -51,4 +51,8 @@ db.collection_name.find({"first name":"Krish"})
 - Refer this [script](https://github.com/Dhamu785/DataBase/blob/main/1_MongoDB/2_fetch_data.py) for 
 	- Querying data
 	- Nested documents
+- Refer the [script](https://github.com/Dhamu785/DataBase/blob/main/1_MongoDB/3_updating_records.py) for the following functions
+	- update_one()
+	- update_many()
+	- replace_one()
 
