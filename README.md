@@ -1,4 +1,5 @@
-> **MongoDB installation and Mangosh PowerShell**
+# **MongoDB** 
+## **MongoDB installation and Mangosh PowerShell**
 
 ### Overview
 - Stores data in the format of json, key-value pairs.
@@ -36,7 +37,7 @@ db.collection_name.find({"first name":"Krish"})
 ```
 ---
 
-> **MongoDB with python**
+## **MongoDB with python**
 
 - **To install the python library** run the below script in the cmd prompt
 	```python
