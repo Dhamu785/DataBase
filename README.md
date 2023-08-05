@@ -55,4 +55,8 @@ db.collection_name.find({"first name":"Krish"})
 	- update_one()
 	- update_many()
 	- replace_one()
-
+- Refer the [script](https://github.com/Dhamu785/DataBase/blob/main/1_MongoDB/4_Aggregate%20Functions.py) for 
+	- sum
+	- average
+	- multiply
+	- project
